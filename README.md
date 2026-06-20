@@ -1,4 +1,4 @@
-🚀 Successfully completed **Task 2 – FAQ Chatbot** as part of my **CodeAlpha AI/ML Internship**.
+🚀 Successfully completed **Task 2 – FAQ Chatbot** as part of my **CodeAlpha AI Internship**.
 
 In this project, I developed an intelligent FAQ Chatbot using **Python**, **Natural Language Processing (NLP)**, **TF-IDF Vectorization**, and **Cosine Similarity**. The chatbot is designed to understand user queries and provide the most relevant responses from a predefined FAQ dataset.
 
